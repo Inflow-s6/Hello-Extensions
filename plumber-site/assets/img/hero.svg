@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 480" width="800" height="480" role="img" aria-label="Plumbing illustration">
+	<defs>
+		<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+			<stop offset="0%" stop-color="#e8f1fb" />
+			<stop offset="100%" stop-color="#ffffff" />
+		</linearGradient>
+		<linearGradient id="pipe" x1="0" y1="0" x2="1" y2="0">
+			<stop offset="0%" stop-color="#9bb9de" />
+			<stop offset="100%" stop-color="#6f97c8" />
+		</linearGradient>
+	</defs>
+	<rect width="800" height="480" fill="url(#bg)"/>
+	<g transform="translate(80,120)">
+		<rect x="0" y="80" width="640" height="40" rx="20" fill="url(#pipe)"/>
+		<rect x="280" y="0" width="40" height="160" rx="20" fill="url(#pipe)"/>
+		<rect x="520" y="0" width="40" height="160" rx="20" fill="url(#pipe)"/>
+		<circle cx="300" cy="200" r="18" fill="#0d4ea6"/>
+		<circle cx="540" cy="200" r="18" fill="#0d4ea6"/>
+		<path d="M40 140c16 0 16 24 32 24s16-24 32-24 16 24 32 24 16-24 32-24" fill="none" stroke="#1e63c3" stroke-width="6" stroke-linecap="round"/>
+	</g>
+</svg>
