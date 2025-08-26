@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 120" width="200" height="120" role="img" aria-label="Deteção de fugas">
+	<circle cx="60" cy="60" r="30" fill="#e8f1fb" stroke="#1e63c3" stroke-width="6"/>
+	<path d="M60 90c12 0 22-10 22-22 0-8-10-22-22-38-12 16-22 30-22 38 0 12 10 22 22 22z" fill="#0d4ea6"/>
+	<rect x="110" y="50" width="70" height="10" rx="5" fill="#6f97c8"/>
+</svg>
